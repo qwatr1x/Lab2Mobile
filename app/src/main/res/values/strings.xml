@@ -1,3 +1,31 @@
 <resources>
-    <string name="app_name">SecondLab</string>
+    <string name="app_name">Art Space</string>
+
+    <string name="button_previous">Previous</string>
+    <string name="button_next">Next</string>
+
+    <string name="artwork_1_title">Water Lilies</string>
+    <string name="artwork_1_author">Author: Claude Monet</string>
+    <string name="artwork_1_year">Year: 1916</string>
+    <string name="artwork_1_description">Part of Monet\'s famous late series dedicated to the pond in his garden at Giverny. The painting immerses the viewer in an element of water, light, and color, where the horizon and clear forms dissolve. Reflections of the sky and plants merge with the actual water lilies, creating a meditative, "endless" canvas—a forerunner of abstract art. Material: canvas. Technique: oil. Size: 135 x 145 cm.</string>
+
+    <string name="artwork_2_title">Fog at Sea</string>
+    <string name="artwork_2_author">Author: Ivan Aivazovsky</string>
+    <string name="artwork_2_year">Year: 1895</string>
+    <string name="artwork_2_description">A late work by the great marine painter, demonstrating his mastery in conveying atmospheric effects. Unlike his stormy dramas, here he subtly depicts a state of silence and mystery. The sun breaking through thick fog over calm water creates a lyrical and almost mystical image of the sea. Material: canvas. Technique: oil. Size: 31.5 x 42 cm.</string>
+
+    <string name="artwork_3_title">Black Suprematist Square</string>
+    <string name="artwork_3_author">Author: Kazimir Malevich</string>
+    <string name="artwork_3_year">Year: 1915</string>
+    <string name="artwork_3_description">An icon of avant-garde art and a manifesto of Suprematism. The simple geometric form of a black square on a white background is declared as the "zero of form," the foundation of a new, non-objective art. This is a radical break with traditional painting, a challenge to perception, and a symbol of absolute creative freedom. Material: canvas. Technique: oil. Size: 79.5 x 79.5 cm.</string>
+
+    <string name="artwork_4_title">Morning in a Pine Forest</string>
+    <string name="artwork_4_author">Author: Ivan Shishkin</string>
+    <string name="artwork_4_year">Year: 1889</string>
+    <string name="artwork_4_description">A famous landscape, a symbol of Russian nature. It depicts a dense forest at dawn, where a she-bear with her cubs play on fallen pine trees. It combines monumentality and detail in the depiction of trees with a lively genre scene. The bears were painted by artist Konstantin Savitsky, although the painting is commonly associated with Shishkin. Material: canvas. Technique: oil. Size: 139 x 213 cm.</string>
+
+    <string name="artwork_5_title">Ivan the Terrible and His Son Ivan on November 16, 1581</string>
+    <string name="artwork_5_author">Author: Ilya Repin</string>
+    <string name="artwork_5_year">Year: 1885</string>
+    <string name="artwork_5_description">One of the most dramatic and psychologically intense paintings in Russian art. It depicts the moment when Tsar Ivan the Terrible, in a fit of rage, fatally wounded his son and, overcome with horror and remorse, tries to staunch the blood. The composition, color, and light masterfully convey the tragedy, despair, and depth of a father\'s grief. Material: canvas. Technique: oil. Size: 199.5 x 254 cm.</string>
 </resources>
